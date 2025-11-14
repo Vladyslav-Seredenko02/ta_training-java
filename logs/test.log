@@ -1,0 +1,44 @@
+2025-11-14 00:25:07 INFO  User choose browser: 'Chrome'
+2025-11-14 00:25:11 INFO  User opens the Login Page
+2025-11-14 00:25:12 INFO  User sets username 'abc'
+2025-11-14 00:25:12 INFO  User sets password 'abc'
+2025-11-14 00:25:12 INFO  User clears username on Login form
+2025-11-14 00:25:12 INFO  User clears password on Login form
+2025-11-14 00:25:12 INFO  User clicks on login button
+2025-11-14 00:25:13 INFO  User get error message: 'Epic sadface: Username is required'
+2025-11-14 00:25:13 INFO  User choose browser: 'Edge'
+2025-11-14 00:25:15 INFO  User opens the Login Page
+2025-11-14 00:25:16 INFO  User sets username 'abc'
+2025-11-14 00:25:16 INFO  User sets password 'abc'
+2025-11-14 00:25:16 INFO  User clears username on Login form
+2025-11-14 00:25:16 INFO  User clears password on Login form
+2025-11-14 00:25:16 INFO  User clicks on login button
+2025-11-14 00:25:17 INFO  User get error message: 'Epic sadface: Username is required'
+2025-11-14 00:25:17 INFO  User choose browser: 'Chrome'
+2025-11-14 00:25:19 INFO  User opens the Login Page
+2025-11-14 00:25:20 INFO  User sets username 'abc'
+2025-11-14 00:25:20 INFO  User sets password 'abc'
+2025-11-14 00:25:20 INFO  User clears password on Login form
+2025-11-14 00:25:20 INFO  User clicks on login button
+2025-11-14 00:25:21 INFO  User get error message: 'Epic sadface: Password is required'
+2025-11-14 00:25:21 INFO  User choose browser: 'Edge'
+2025-11-14 00:25:22 INFO  User opens the Login Page
+2025-11-14 00:25:23 INFO  User sets username 'abc'
+2025-11-14 00:25:23 INFO  User sets password 'abc'
+2025-11-14 00:25:23 INFO  User clears password on Login form
+2025-11-14 00:25:24 INFO  User clicks on login button
+2025-11-14 00:25:24 INFO  User get error message: 'Epic sadface: Password is required'
+2025-11-14 00:25:24 INFO  User choose browser: 'Chrome'
+2025-11-14 00:25:26 INFO  User opens the Login Page
+2025-11-14 00:25:26 INFO  User sets username 'standard_user'
+2025-11-14 00:25:27 INFO  User sets password 'secret_sauce'
+2025-11-14 00:25:27 INFO  User clicks on login button
+2025-11-14 00:25:27 INFO  User checking title text is visible
+2025-11-14 00:25:27 INFO  User see title text: 'Swag Labs'
+2025-11-14 00:25:28 INFO  User choose browser: 'Edge'
+2025-11-14 00:25:29 INFO  User opens the Login Page
+2025-11-14 00:25:30 INFO  User sets username 'standard_user'
+2025-11-14 00:25:30 INFO  User sets password 'secret_sauce'
+2025-11-14 00:25:30 INFO  User clicks on login button
+2025-11-14 00:25:31 INFO  User checking title text is visible
+2025-11-14 00:25:31 INFO  User see title text: 'Swag Labs'
