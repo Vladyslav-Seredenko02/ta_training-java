@@ -14,7 +14,6 @@ import org.junit.runner.RunWith;
                 "html:target/cucumber-report.html",
                 "json:target/cucumber.json"
         },
-        snippets = CucumberOptions.SnippetType.CAMELCASE,
         stepNotifications = true
 )
 public class TestRunner { }
