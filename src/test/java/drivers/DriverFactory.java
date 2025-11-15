@@ -23,8 +23,8 @@ public class DriverFactory {
                 If you are facing same issue please download and set up WebDriver locally as well,
                 and adjust WebDriver path in setProperty method below
                  */
-                System.setProperty("webdriver.edge.driver", "D:\\webdriver\\msedgedriver.exe");
-//                WebDriverManager.edgedriver().setup();
+//                System.setProperty("webdriver.edge.driver", "D:\\webdriver\\msedgedriver.exe");
+                WebDriverManager.edgedriver().setup();
                 driver.set(new EdgeDriver());
             } else {
                 WebDriverManager.chromedriver().setup();
